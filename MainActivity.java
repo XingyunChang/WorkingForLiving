@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.workforliving;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,10 +20,6 @@ import com.android.volley.toolbox.HttpResponse;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 
-import org.apache.http.HttpEntity;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -66,8 +62,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         mQueue = Volley.newRequestQueue(this);
-        final String url = "http://47.110.241.234:8000/api/atlantaJobQuery?infos={%22index%22:%220%22,%20%22zipcode%22:%2230313%22,%20%22hometype%22:%22apartment%22,%20%22title%22:%22Developer%22}";
-        //String url = "http://47.110.241.234:8000/api/atlantaJobQuery?infos={\"index\":" + "\"" + count + "\"" + "," + " \"zipcode\":" + "\"" + locationInput + "\"" +  "," +" \"hometype\":" + "\"" +selection + "\"" + ", \"title\":" + "\"" + jobTitleInput + "\"" + "}" ;
+        //final String url = "http://47.110.241.234:8000/api/atlantaJobQuery?infos={%22index%22:%220%22,%20%22zipcode%22:%2230313%22,%20%22hometype%22:%22apartment%22,%20%22title%22:%22Developer%22}";
+        String url = "http://47.110.241.234:8000/api/atlantaJobQuery?infos={\"index\":" + "\"" + count + "\"" + "," + " \"zipcode\":" + "\"" + locationInput + "\"" +  "," +" \"hometype\":" + "\"" +selection + "\"" + ", \"title\":" + "\"" + jobTitleInput + "\"" + "}" ;
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {
                     @Override
@@ -91,12 +87,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         mQueue.add(request);
-        zipcode = "30313";
-        jobTitle = "Records Clerk";
-        companyName="Centennial Academy";
-        salary = "$29,000";
-        price = "1425";
-        address = "Atlanta, GA 30313 (Downtown area)";
 
 
         View button = (Button) findViewById(R.id.matchButton);

@@ -1,0 +1,171 @@
+zipcode,name,address,size,price,type
+30309,Icon Midtown,22 14th St Nw,749,2239,apartment
+30308,Camden Midtown Atlanta,265 Ponce De Leon Ave Ne,836,1309,apartment
+30318,Radius West Midtown,464 Bishop St NW,571,1500,apartment
+30318,AMLI Westside,1084 Howell Mill Rd NW,750,1677,apartment
+30318,Berkeley Heights,1700 Northside Dr NW,874,1805,apartment
+30312,Camden Vantage,180 Jackson St NE,831,1329,apartment
+30308,Townhouse Atlanta,450 Piedmont Ave NE,587,1339,apartment
+30326,Post Stratford,3400 Stratford Rd NE,713,1365,apartment
+30312,none,304 Glen Iris Dr NE APT B,700,850,house
+30309,AMLI Arts Center,1240 W Peachtree St NE,690,1749,apartment
+30318,none,1751 Marietta Road NW,1927,825,house
+30342,Uptown Buckhead,3707 Roswell Rd NE,550,1160,apartment
+30305,Tremont Apartments,3645 Habersham Rd NE,926,1494,apartment
+30326,Camden Phipps,700 Phipps Blvd NE,827,1479,apartment
+30326,Cyan On Peachtree,3380 Peachtree Rd NE,643,1541,apartment
+30308,Broadstone Midtown,811 Juniper St NE,630,1458,apartment
+30312,Windsor Old Fourth Ward,608 Ralph Mcgill Blvd NE,721,1653,apartment
+30324,Avana on Main,508 Main St NE,812,1326,apartment
+30312,Anthem on Ashley,720 Ralph Mcgill Blvd NE,682,1555,apartment
+30318,The Point At Westside,"APT 1123, 370 Northside Dr NW",1190,1820,apartment
+30319,Post Gardens,1020 Lenox Park Blvd NE,799,1205,apartment
+30342,Post Chastain,4090 Roswell Rd NE,634,1220,apartment
+30312,none,304 Glen Iris Dr NE APT B,700,850,house
+30309,Mezzo Apartments,2171 Peachtree Rd NW # 1703,1306,2738,apartment
+30312,Platform Apartments,290 Martin Luther King Jr Dr SE,691,1510,apartment
+30305,Hanover Buckhead Village,3150 Roswell Rd NE,767,1847,apartment
+30309,Windsor at Midtown,222 14th St NE,720,1845,apartment
+30324,Arrive Buckhead,740 Sidney Marcus Blvd NE,740,1170,apartment
+30309,Hanover Midtown,888 Juniper St NE,710,1795,apartment
+30309,Wesley Townsend,200 Colonial Homes Dr NW,785,1353,apartment
+30324,Tuscany at Lindbergh,600 Garson Dr NE,748,1309,apartment
+30306,none,897 N Highland Ave NE,585,1300,house
+30318,Gables 820 West,820 W Marietta St NW,630,1155,apartment
+30309,YOO on The Park,207 13th St NE,797,1975,apartment
+30318,Steelworks,1220 Mecaslin St NW,638,1500,apartment
+30309,1220 Mecaslin St Nw,1280 W Peachtree St NW,625,1325,apartment
+30327,The Rocca,3280 Northside Pkwy NW,821,1215,apartment
+30309,1045 on The Park,1045 Piedmont Ave NE,750,1797,apartment
+30313,Post Centennial Park,305 Centennial Olympic Park Dr NW,618,1425,apartment
+30317,Element at Kirkwood,2035 Memorial Dr SE,700,1169,apartment
+30308,Biltmore at Midtown,855 W Peachtree St,602,1529,apartment
+30327,Collier Ridge,100 Noble Creek Dr NW #1710,1366,1550,apartment
+30305,The Bryant at Buckhead Village,400 Pharr Rd NE,753,1566,apartment
+30308,Savannah Midtown,215 N Ave NE,747,1360,apartment
+30324,Core At Lindbergh,741 Morosgo Dr NE,655,1444,apartment
+30309,Hanover West Peachtree,1010 W Peachtree St,539,1422,apartment
+30316,Glenwood at Grant Park,860 Glenwood Ave SE,722,1450,apartment
+30326,AMLI Buckhead,3450 Roxboro Rd NE,622,1494,apartment
+30309,Alexan on 8th,880 W Peachtree St,671,1880,apartment
+30305,Post Peachtree Hills,350 Peachtree Hills Ave NE,554,1235,apartment
+30309,Spectrum on Spring,1270 Spring St NW,804,1766,apartment
+30317,The Kirkwood Apartments,71 Howard St SE,699,1447,apartment
+30326,AMLI 3464,3464 Roxboro Rd NE,841,1857,apartment
+30318,Cottonwood Westside,691 14th St NW,803,1365,apartment
+30305,Camden Buckhead Square,3097 Maple Dr NE,697,1349,apartment
+30318,Millworks Apartments,1888 Emery St NW,672,1450,apartment
+30324,Gables Midtown,1925 Monroe Dr NE,753,1275,apartment
+30312,The George & The Leonard,275 Memorial Dr SE,468,1218,apartment
+30309,Ardmore & 28th,306 Ardmore Cir NW,896,1349,apartment
+30324,The Pointe at Lindbergh,485 Lindbergh Pl NE,565,1421,apartment
+30309,Skyhouse Midtown,1080 W Peachtree St,702,1657,apartment
+30309,The Monroe,222 Colonial Homes Dr NW,595,1530,apartment
+30307,none,1261 Caroline St NE APT 223,none,1550,apartment
+30363,The Exchange,470 16th St NW,750,1455,apartment
+30308,Flats at Ponce City Market,675 Ponce De Leon Ave NE,900,2038,apartment
+30318,The Mark at West Midtown,507 Bishop St NW,769,1415,apartment
+30324,Helios,2470 Cheshire Bridge Rd NE,676,1360,apartment
+30324,Avana Lenox,925 Canterbury Rd NE,794,1848,apartment
+30309,Post Midtown,33 11th St NE,737,1860,apartment
+30308,Trace,782 Peachtree St NE,657,1447,apartment
+30309,Atlantic House,1163 W Peachtree St,685,1715,apartment
+30309,Ascent Midtown,1400 W Peachtree St NW,652,1941,apartment
+30324,none,711 Cosmopolitan Dr NE # 102,901,1450,apartment
+30309,Post Parkside Atlanta,"APT 2119, 250 10th St NE",619,1530,apartment
+30308,Camden Fourth Ward,477 Wilmer St NE,637,1439,apartment
+30305,2460 Peachtree at Peachtree Battle,2460 Peachtree Rd NW,814,1425,apartment
+30303,Dwell ATL,171 Auburn Ave NE,765,1320,apartment
+30326,Icon Buckhead,3372 Peachtree Rd NE,771,2047,apartment
+30317,none,190 Kirkwood Rd NE APT G3,600,1145,apartment
+30312,West Inman Lofts,626 Dekalb Ave SE,738,1315,loft
+30309,77 12th Street,77 12th St NE,735,1754,apartment
+30324,Sorelle,2399 Parkland Dr NE,624,1188,apartment
+30326,none,3338 Peachtree Rd NE APT 2808,936,2200,condo
+30307,Ayla,44 Krog St NE,670,1876,apartment
+30312,none,364 Irwin St NE,480,1200,house
+30309,Azure on The Park,1020 Piedmont Ave NE,640,2067,apartment
+30308,AMLI Ponce Park,641 N Ave NE,642,1653,apartment
+30309,The Atlantic Loring Heights,398 Deering Rd NW,550,915,apartment
+30309,Piedmont House,205 12th St NE,735,2375,apartment
+30305,Modera Buckhead,3005 Peachtree Rd NE,677,1805,apartment
+30305,The Aster Buckhead,2900 Pharr Court South NW,885,1513,apartment
+30308,lilli Midtown,693 Peachtree St NE,851,2175,apartment
+30312,City View,433 Highland Ave NE,792,1292,apartment
+30319,Aspire Lenox Park,1050 Lenox Park Blvd NE,745,1299,apartment
+30312,none,Bryan St SE,688,1995,house
+30318,none,1817 Sanford Dr,636,1600,house
+30308,none,1817 Sanford Dr,600,2100,apartment
+30307,none,1334 North Ave NE # 4,600,1150,house
+30318,1824 Defoor,1824 Defoor Ave NW,828,1460,apartment
+30309,Mayfair Renaissance Condominiums,195 14th St Ne,658,1650,apartment
+30309,none,177 12th St NE APT B1,none,1500,apartment
+30306,none,1040 Greenwood Ave NE,750,1150,apartment
+30307,Heart of Inman Park,254 N Highland Ave NE # 319,750,2950,apartment
+30305,none,Lookout Pl NE,650,999,house
+30326,none,3334 Peachtree Rd NE,793,1600,house
+30308,none,3rd St NE,851,2100,apartment
+30308,none,855 Piedmont Ave NE,738,2000,house
+30363,none,270 17th St NW,1250,2200,apartment
+30363,none,17th St NW,815,2250,apartment
+30326,Paramount At Buckhead,3445 Stratford Rd NE,1303,2100,apartment
+30306,none,867 Rosedale Rd NE,650,1325,apartment
+30307,none,1761 Mclendon Ave NE # A,707,725,apartment
+30312,none,617 Memorial Dr SE,736,2750,house
+30308,none,355 5th St NE APT 3,800,1250,apartment
+30306,none,833 Ponce De Leon Pl NE APT 4,700,1250,apartment
+30306,none,791 Marstevan Dr NE APT B,none ,1465,apartment
+30308,none,741 Ponce De Leon Ct NE APT 14,842,1425,apartment
+30316,none,1209 Memorial Dr Se,none,1040,apartment
+30309,none ,878 Peachtree St NE APT 328,1138,2000,apartment
+30315,none,1295 Marcy St SE APT 7,none,700,apartment
+30326,Buckhead Grand,Peachtree Rd NE,1005,3400,apartment
+30303,none,505 Whitehall St SW # 336,1257,1425,apartment
+30307,none,195 Arizona Ave NE,996,1750,condo
+30304,none,257 Sciple Ter NW APT 2,2100,850,apartment
+30314,none,257 Sciple Ter NW,700,850,apartment
+30326,The Ritz-Carlton Residences Buckhead,3630 Peachtree Rd NE UNIT 3008,1351,5450,condo
+30308,none,800 Peachtree St NE APT 1420,755,1495,condo
+30309,The Parks,202 12th St NE APT 2,800,1150,apartment
+30308,none,75 Ponce De Leon Ave NE APT 1006,none,2000,condo
+30306,none,668 Linwood Ave NE APT 10,750,1250,apartment
+30308,Windsor,620 Peachtree St NE APT 1002,786,1600,apartment
+30309,none,1280 W Peachtree St NW APT 3611,645,1375,condo
+30316,none,778 Memorial Dr SE,641,1415,apartment
+30331,none,3664 Ramsey Close SW,none,1200,apartment
+30308,none,747 Durant Pl NE APT 3,800,1300,apartment
+30305,none,2870 Pharr Court South NW APT 508,543,1495,condo
+30319,Peachtree Place,3777 Peachtree Rd NE,1035,1495,apartment
+30305,none,3040 Peachtree Rd NW UNIT 914,800,1750,condo
+30307,none,589-603 Seminole Ave # 595D,900,950,apartment
+30312,none,170 Boulevard SE,1263,3000,apartment
+30316,none,1361 Metropolitan Ave SE,850,1150,apartment
+30306,none,986 Greenwood Ave NE APT 6,600,1400,apartment
+30326,none,3463 Roxboro Rd NE,841,1888,condo
+30324,none,2501 Pine Tree Rd NE,650,1149,apartment
+30308,none,781 Peachtree St NE,650,1740,apartment
+30309,Crescent Place Apartment,1122 Crescent Ave NE,600,1125,apartment
+30318,none,1100 Howell Mill Rd Nw,980,1875,apartment
+30305,The Irby,65 Irby Ave NW,800,1245,apartment
+30307,none,1709 Adolphus Ave NE # B,550,950,apartment
+30317,none,1650 Eastport Ter SE,875,950,apartment
+30326,Ritz Carlton Residences,3630 Peachtree Rd NE UNIT 2806,1315,5800,condo
+30315,none,2959 Forrest Hills Drive,700,725,house
+30306,none,955 Greenwood Ave NE APT 7,680,1275,apartment
+30308,none,861 Charles Allen Dr NE APT C,none,1395,apartment
+30305,Eclipse,250 Pharr Rd NE APT 1907,762,1850,condo
+30307,none,1569 Mclendon Ave NE # 3,none,1000,house
+30303,none,57 Forsyth St NW APT 8E,739,1850,apartment
+30306,none,830 Barnett St NE APT 8,427,975,apartment
+30309,none,275 13th St NE,780,1600,apartment
+30305,none,2840 Peachtree Rd NW,1572,1890,condo
+30308,none,757 Monroe Dr NE APT 1,686,1400,townhouse
+30309,none,950 W Peachtree St,812,1695,apartment
+30305,none,"3325 Piedmont Rd NE UNIT 1909,",944,2950,condo
+30308,none,215 Piedmont Ave NE # 16,1000,1400,condo
+30309,none,1075 Peachtree Walk NE UNIT A411,750,1575,condo
+30307,none,Terrace Ave NE,400,1800,apartment
+30309,none,W Peachtree St NW,795,1755,apartment
+30312,none,Ralph Mcgill Blvd NE,795,1560,apartment
+30324,none,1445 Monroe Dr NE APT E4,720,1390,townhouse
+30315,none,1670 Lakewood Ave SW # 1,none,1150,apartment

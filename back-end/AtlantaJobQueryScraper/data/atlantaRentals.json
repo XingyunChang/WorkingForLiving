@@ -1,0 +1,1191 @@
+[{
+    "zipcode": "30309",
+    "name": "Icon Midtown",
+    "address": "22 14th St Nw",
+    "size": "749",
+    "price": "2239",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Camden Midtown Atlanta",
+    "address": "265 Ponce De Leon Ave Ne",
+    "size": "836",
+    "price": "1309",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "Radius West Midtown",
+    "address": "464 Bishop St NW",
+    "size": "571",
+    "price": "1500",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "AMLI Westside",
+    "address": "1084 Howell Mill Rd NW",
+    "size": "750",
+    "price": "1677",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "Berkeley Heights",
+    "address": "1700 Northside Dr NW",
+    "size": "874",
+    "price": "1805",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "Camden Vantage",
+    "address": "180 Jackson St NE",
+    "size": "831",
+    "price": "1329",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Townhouse Atlanta",
+    "address": "450 Piedmont Ave NE",
+    "size": "587",
+    "price": "1339",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Post Stratford",
+    "address": "3400 Stratford Rd NE",
+    "size": "713",
+    "price": "1365",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "304 Glen Iris Dr NE APT B",
+    "size": "700",
+    "price": "850",
+    "type": "house"
+}, {
+    "zipcode": "30309",
+    "name": "AMLI Arts Center",
+    "address": "1240 W Peachtree St NE",
+    "size": "690",
+    "price": "1749",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "none",
+    "address": "1751 Marietta Road NW",
+    "size": "1927",
+    "price": "825",
+    "type": "house"
+}, {
+    "zipcode": "30342",
+    "name": "Uptown Buckhead",
+    "address": "3707 Roswell Rd NE",
+    "size": "550",
+    "price": "1160",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Tremont Apartments",
+    "address": "3645 Habersham Rd NE",
+    "size": "926",
+    "price": "1494",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Camden Phipps",
+    "address": "700 Phipps Blvd NE",
+    "size": "827",
+    "price": "1479",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Cyan On Peachtree",
+    "address": "3380 Peachtree Rd NE",
+    "size": "643",
+    "price": "1541",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Broadstone Midtown",
+    "address": "811 Juniper St NE",
+    "size": "630",
+    "price": "1458",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "Windsor Old Fourth Ward",
+    "address": "608 Ralph Mcgill Blvd NE",
+    "size": "721",
+    "price": "1653",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Avana on Main",
+    "address": "508 Main St NE",
+    "size": "812",
+    "price": "1326",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "Anthem on Ashley",
+    "address": "720 Ralph Mcgill Blvd NE",
+    "size": "682",
+    "price": "1555",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "The Point At Westside",
+    "address": "APT 1123, 370 Northside Dr NW",
+    "size": "1190",
+    "price": "1820",
+    "type": "apartment"
+}, {
+    "zipcode": "30319",
+    "name": "Post Gardens",
+    "address": "1020 Lenox Park Blvd NE",
+    "size": "799",
+    "price": "1205",
+    "type": "apartment"
+}, {
+    "zipcode": "30342",
+    "name": "Post Chastain",
+    "address": "4090 Roswell Rd NE",
+    "size": "634",
+    "price": "1220",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "304 Glen Iris Dr NE APT B",
+    "size": "700",
+    "price": "850",
+    "type": "house"
+}, {
+    "zipcode": "30309",
+    "name": "Mezzo Apartments",
+    "address": "2171 Peachtree Rd NW # 1703",
+    "size": "1306",
+    "price": "2738",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "Platform Apartments",
+    "address": "290 Martin Luther King Jr Dr SE",
+    "size": "691",
+    "price": "1510",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Hanover Buckhead Village",
+    "address": "3150 Roswell Rd NE",
+    "size": "767",
+    "price": "1847",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Windsor at Midtown",
+    "address": "222 14th St NE",
+    "size": "720",
+    "price": "1845",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Arrive Buckhead",
+    "address": "740 Sidney Marcus Blvd NE",
+    "size": "740",
+    "price": "1170",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Hanover Midtown",
+    "address": "888 Juniper St NE",
+    "size": "710",
+    "price": "1795",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Wesley Townsend",
+    "address": "200 Colonial Homes Dr NW",
+    "size": "785",
+    "price": "1353",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Tuscany at Lindbergh",
+    "address": "600 Garson Dr NE",
+    "size": "748",
+    "price": "1309",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "897 N Highland Ave NE",
+    "size": "585",
+    "price": "1300",
+    "type": "house"
+}, {
+    "zipcode": "30318",
+    "name": "Gables 820 West",
+    "address": "820 W Marietta St NW",
+    "size": "630",
+    "price": "1155",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "YOO on The Park",
+    "address": "207 13th St NE",
+    "size": "797",
+    "price": "1975",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "Steelworks",
+    "address": "1220 Mecaslin St NW",
+    "size": "638",
+    "price": "1500",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "1220 Mecaslin St Nw",
+    "address": "1280 W Peachtree St NW",
+    "size": "625",
+    "price": "1325",
+    "type": "apartment"
+}, {
+    "zipcode": "30327",
+    "name": "The Rocca",
+    "address": "3280 Northside Pkwy NW",
+    "size": "821",
+    "price": "1215",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "1045 on The Park",
+    "address": "1045 Piedmont Ave NE",
+    "size": "750",
+    "price": "1797",
+    "type": "apartment"
+}, {
+    "zipcode": "30313",
+    "name": "Post Centennial Park",
+    "address": "305 Centennial Olympic Park Dr NW",
+    "size": "618",
+    "price": "1425",
+    "type": "apartment"
+}, {
+    "zipcode": "30317",
+    "name": "Element at Kirkwood",
+    "address": "2035 Memorial Dr SE",
+    "size": "700",
+    "price": "1169",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Biltmore at Midtown",
+    "address": "855 W Peachtree St",
+    "size": "602",
+    "price": "1529",
+    "type": "apartment"
+}, {
+    "zipcode": "30327",
+    "name": "Collier Ridge",
+    "address": "100 Noble Creek Dr NW #1710",
+    "size": "1366",
+    "price": "1550",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "The Bryant at Buckhead Village",
+    "address": "400 Pharr Rd NE",
+    "size": "753",
+    "price": "1566",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Savannah Midtown",
+    "address": "215 N Ave NE",
+    "size": "747",
+    "price": "1360",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Core At Lindbergh",
+    "address": "741 Morosgo Dr NE",
+    "size": "655",
+    "price": "1444",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Hanover West Peachtree",
+    "address": "1010 W Peachtree St",
+    "size": "539",
+    "price": "1422",
+    "type": "apartment"
+}, {
+    "zipcode": "30316",
+    "name": "Glenwood at Grant Park",
+    "address": "860 Glenwood Ave SE",
+    "size": "722",
+    "price": "1450",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "AMLI Buckhead",
+    "address": "3450 Roxboro Rd NE",
+    "size": "622",
+    "price": "1494",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Alexan on 8th",
+    "address": "880 W Peachtree St",
+    "size": "671",
+    "price": "1880",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Post Peachtree Hills",
+    "address": "350 Peachtree Hills Ave NE",
+    "size": "554",
+    "price": "1235",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Spectrum on Spring",
+    "address": "1270 Spring St NW",
+    "size": "804",
+    "price": "1766",
+    "type": "apartment"
+}, {
+    "zipcode": "30317",
+    "name": "The Kirkwood Apartments",
+    "address": "71 Howard St SE",
+    "size": "699",
+    "price": "1447",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "AMLI 3464",
+    "address": "3464 Roxboro Rd NE",
+    "size": "841",
+    "price": "1857",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "Cottonwood Westside",
+    "address": "691 14th St NW",
+    "size": "803",
+    "price": "1365",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Camden Buckhead Square",
+    "address": "3097 Maple Dr NE",
+    "size": "697",
+    "price": "1349",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "Millworks Apartments",
+    "address": "1888 Emery St NW",
+    "size": "672",
+    "price": "1450",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Gables Midtown",
+    "address": "1925 Monroe Dr NE",
+    "size": "753",
+    "price": "1275",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "The George & The Leonard",
+    "address": "275 Memorial Dr SE",
+    "size": "468",
+    "price": "1218",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Ardmore & 28th",
+    "address": "306 Ardmore Cir NW",
+    "size": "896",
+    "price": "1349",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "The Pointe at Lindbergh",
+    "address": "485 Lindbergh Pl NE",
+    "size": "565",
+    "price": "1421",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Skyhouse Midtown",
+    "address": "1080 W Peachtree St",
+    "size": "702",
+    "price": "1657",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "The Monroe",
+    "address": "222 Colonial Homes Dr NW",
+    "size": "595",
+    "price": "1530",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "1261 Caroline St NE APT 223",
+    "size": "none",
+    "price": "1550",
+    "type": "apartment"
+}, {
+    "zipcode": "30363",
+    "name": "The Exchange",
+    "address": "470 16th St NW",
+    "size": "750",
+    "price": "1455",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Flats at Ponce City Market",
+    "address": "675 Ponce De Leon Ave NE",
+    "size": "900",
+    "price": "2038",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "The Mark at West Midtown",
+    "address": "507 Bishop St NW",
+    "size": "769",
+    "price": "1415",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Helios",
+    "address": "2470 Cheshire Bridge Rd NE",
+    "size": "676",
+    "price": "1360",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Avana Lenox",
+    "address": "925 Canterbury Rd NE",
+    "size": "794",
+    "price": "1848",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Post Midtown",
+    "address": "33 11th St NE",
+    "size": "737",
+    "price": "1860",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Trace",
+    "address": "782 Peachtree St NE",
+    "size": "657",
+    "price": "1447",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Atlantic House",
+    "address": "1163 W Peachtree St",
+    "size": "685",
+    "price": "1715",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Ascent Midtown",
+    "address": "1400 W Peachtree St NW",
+    "size": "652",
+    "price": "1941",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "none",
+    "address": "711 Cosmopolitan Dr NE # 102",
+    "size": "901",
+    "price": "1450",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Post Parkside Atlanta",
+    "address": "APT 2119, 250 10th St NE",
+    "size": "619",
+    "price": "1530",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Camden Fourth Ward",
+    "address": "477 Wilmer St NE",
+    "size": "637",
+    "price": "1439",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "2460 Peachtree at Peachtree Battle",
+    "address": "2460 Peachtree Rd NW",
+    "size": "814",
+    "price": "1425",
+    "type": "apartment"
+}, {
+    "zipcode": "30303",
+    "name": "Dwell ATL",
+    "address": "171 Auburn Ave NE",
+    "size": "765",
+    "price": "1320",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Icon Buckhead",
+    "address": "3372 Peachtree Rd NE",
+    "size": "771",
+    "price": "2047",
+    "type": "apartment"
+}, {
+    "zipcode": "30317",
+    "name": "none",
+    "address": "190 Kirkwood Rd NE APT G3",
+    "size": "600",
+    "price": "1145",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "West Inman Lofts",
+    "address": "626 Dekalb Ave SE",
+    "size": "738",
+    "price": "1315",
+    "type": "loft"
+}, {
+    "zipcode": "30309",
+    "name": "77 12th Street",
+    "address": "77 12th St NE",
+    "size": "735",
+    "price": "1754",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "Sorelle",
+    "address": "2399 Parkland Dr NE",
+    "size": "624",
+    "price": "1188",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "none",
+    "address": "3338 Peachtree Rd NE APT 2808",
+    "size": "936",
+    "price": "2200",
+    "type": "condo"
+}, {
+    "zipcode": "30307",
+    "name": "Ayla",
+    "address": "44 Krog St NE",
+    "size": "670",
+    "price": "1876",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "364 Irwin St NE",
+    "size": "480",
+    "price": "1200",
+    "type": "house"
+}, {
+    "zipcode": "30309",
+    "name": "Azure on The Park",
+    "address": "1020 Piedmont Ave NE",
+    "size": "640",
+    "price": "2067",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "AMLI Ponce Park",
+    "address": "641 N Ave NE",
+    "size": "642",
+    "price": "1653",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "The Atlantic Loring Heights",
+    "address": "398 Deering Rd NW",
+    "size": "550",
+    "price": "915",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Piedmont House",
+    "address": "205 12th St NE",
+    "size": "735",
+    "price": "2375",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Modera Buckhead",
+    "address": "3005 Peachtree Rd NE",
+    "size": "677",
+    "price": "1805",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "The Aster Buckhead",
+    "address": "2900 Pharr Court South NW",
+    "size": "885",
+    "price": "1513",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "lilli Midtown",
+    "address": "693 Peachtree St NE",
+    "size": "851",
+    "price": "2175",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "City View",
+    "address": "433 Highland Ave NE",
+    "size": "792",
+    "price": "1292",
+    "type": "apartment"
+}, {
+    "zipcode": "30319",
+    "name": "Aspire Lenox Park",
+    "address": "1050 Lenox Park Blvd NE",
+    "size": "745",
+    "price": "1299",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "Bryan St SE",
+    "size": "688",
+    "price": "1995",
+    "type": "house"
+}, {
+    "zipcode": "30318",
+    "name": "none",
+    "address": "1817 Sanford Dr",
+    "size": "636",
+    "price": "1600",
+    "type": "house"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "1817 Sanford Dr",
+    "size": "600",
+    "price": "2100",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "1334 North Ave NE # 4",
+    "size": "600",
+    "price": "1150",
+    "type": "house"
+}, {
+    "zipcode": "30318",
+    "name": "1824 Defoor",
+    "address": "1824 Defoor Ave NW",
+    "size": "828",
+    "price": "1460",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Mayfair Renaissance Condominiums",
+    "address": "195 14th St Ne",
+    "size": "658",
+    "price": "1650",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "177 12th St NE APT B1",
+    "size": "none",
+    "price": "1500",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "1040 Greenwood Ave NE",
+    "size": "750",
+    "price": "1150",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "Heart of Inman Park",
+    "address": "254 N Highland Ave NE # 319",
+    "size": "750",
+    "price": "2950",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "none",
+    "address": "Lookout Pl NE",
+    "size": "650",
+    "price": "999",
+    "type": "house"
+}, {
+    "zipcode": "30326",
+    "name": "none",
+    "address": "3334 Peachtree Rd NE",
+    "size": "793",
+    "price": "1600",
+    "type": "house"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "3rd St NE",
+    "size": "851",
+    "price": "2100",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "855 Piedmont Ave NE",
+    "size": "738",
+    "price": "2000",
+    "type": "house"
+}, {
+    "zipcode": "30363",
+    "name": "none",
+    "address": "270 17th St NW",
+    "size": "1250",
+    "price": "2200",
+    "type": "apartment"
+}, {
+    "zipcode": "30363",
+    "name": "none",
+    "address": "17th St NW",
+    "size": "815",
+    "price": "2250",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Paramount At Buckhead",
+    "address": "3445 Stratford Rd NE",
+    "size": "1303",
+    "price": "2100",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "867 Rosedale Rd NE",
+    "size": "650",
+    "price": "1325",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "1761 Mclendon Ave NE # A",
+    "size": "707",
+    "price": "725",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "617 Memorial Dr SE",
+    "size": "736",
+    "price": "2750",
+    "type": "house"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "355 5th St NE APT 3",
+    "size": "800",
+    "price": "1250",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "833 Ponce De Leon Pl NE APT 4",
+    "size": "700",
+    "price": "1250",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "791 Marstevan Dr NE APT B",
+    "size": "none ",
+    "price": "1465",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "741 Ponce De Leon Ct NE APT 14",
+    "size": "842",
+    "price": "1425",
+    "type": "apartment"
+}, {
+    "zipcode": "30316",
+    "name": "none",
+    "address": "1209 Memorial Dr Se",
+    "size": "none",
+    "price": "1040",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "none ",
+    "address": "878 Peachtree St NE APT 328",
+    "size": "1138",
+    "price": "2000",
+    "type": "apartment"
+}, {
+    "zipcode": "30315",
+    "name": "none",
+    "address": "1295 Marcy St SE APT 7",
+    "size": "none",
+    "price": "700",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Buckhead Grand",
+    "address": "Peachtree Rd NE",
+    "size": "1005",
+    "price": "3400",
+    "type": "apartment"
+}, {
+    "zipcode": "30303",
+    "name": "none",
+    "address": "505 Whitehall St SW # 336",
+    "size": "1257",
+    "price": "1425",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "195 Arizona Ave NE",
+    "size": "996",
+    "price": "1750",
+    "type": "condo"
+}, {
+    "zipcode": "30304",
+    "name": "none",
+    "address": "257 Sciple Ter NW APT 2",
+    "size": "2100",
+    "price": "850",
+    "type": "apartment"
+}, {
+    "zipcode": "30314",
+    "name": "none",
+    "address": "257 Sciple Ter NW",
+    "size": "700",
+    "price": "850",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "The Ritz-Carlton Residences Buckhead",
+    "address": "3630 Peachtree Rd NE UNIT 3008",
+    "size": "1351",
+    "price": "5450",
+    "type": "condo"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "800 Peachtree St NE APT 1420",
+    "size": "755",
+    "price": "1495",
+    "type": "condo"
+}, {
+    "zipcode": "30309",
+    "name": "The Parks",
+    "address": "202 12th St NE APT 2",
+    "size": "800",
+    "price": "1150",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "75 Ponce De Leon Ave NE APT 1006",
+    "size": "none",
+    "price": "2000",
+    "type": "condo"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "668 Linwood Ave NE APT 10",
+    "size": "750",
+    "price": "1250",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "Windsor",
+    "address": "620 Peachtree St NE APT 1002",
+    "size": "786",
+    "price": "1600",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "1280 W Peachtree St NW APT 3611",
+    "size": "645",
+    "price": "1375",
+    "type": "condo"
+}, {
+    "zipcode": "30316",
+    "name": "none",
+    "address": "778 Memorial Dr SE",
+    "size": "641",
+    "price": "1415",
+    "type": "apartment"
+}, {
+    "zipcode": "30331",
+    "name": "none",
+    "address": "3664 Ramsey Close SW",
+    "size": "none",
+    "price": "1200",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "747 Durant Pl NE APT 3",
+    "size": "800",
+    "price": "1300",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "none",
+    "address": "2870 Pharr Court South NW APT 508",
+    "size": "543",
+    "price": "1495",
+    "type": "condo"
+}, {
+    "zipcode": "30319",
+    "name": "Peachtree Place",
+    "address": "3777 Peachtree Rd NE",
+    "size": "1035",
+    "price": "1495",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "none",
+    "address": "3040 Peachtree Rd NW UNIT 914",
+    "size": "800",
+    "price": "1750",
+    "type": "condo"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "589-603 Seminole Ave # 595D",
+    "size": "900",
+    "price": "950",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "170 Boulevard SE",
+    "size": "1263",
+    "price": "3000",
+    "type": "apartment"
+}, {
+    "zipcode": "30316",
+    "name": "none",
+    "address": "1361 Metropolitan Ave SE",
+    "size": "850",
+    "price": "1150",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "986 Greenwood Ave NE APT 6",
+    "size": "600",
+    "price": "1400",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "none",
+    "address": "3463 Roxboro Rd NE",
+    "size": "841",
+    "price": "1888",
+    "type": "condo"
+}, {
+    "zipcode": "30324",
+    "name": "none",
+    "address": "2501 Pine Tree Rd NE",
+    "size": "650",
+    "price": "1149",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "781 Peachtree St NE",
+    "size": "650",
+    "price": "1740",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "Crescent Place Apartment",
+    "address": "1122 Crescent Ave NE",
+    "size": "600",
+    "price": "1125",
+    "type": "apartment"
+}, {
+    "zipcode": "30318",
+    "name": "none",
+    "address": "1100 Howell Mill Rd Nw",
+    "size": "980",
+    "price": "1875",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "The Irby",
+    "address": "65 Irby Ave NW",
+    "size": "800",
+    "price": "1245",
+    "type": "apartment"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "1709 Adolphus Ave NE # B",
+    "size": "550",
+    "price": "950",
+    "type": "apartment"
+}, {
+    "zipcode": "30317",
+    "name": "none",
+    "address": "1650 Eastport Ter SE",
+    "size": "875",
+    "price": "950",
+    "type": "apartment"
+}, {
+    "zipcode": "30326",
+    "name": "Ritz Carlton Residences",
+    "address": "3630 Peachtree Rd NE UNIT 2806",
+    "size": "1315",
+    "price": "5800",
+    "type": "condo"
+}, {
+    "zipcode": "30315",
+    "name": "none",
+    "address": "2959 Forrest Hills Drive",
+    "size": "700",
+    "price": "725",
+    "type": "house"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "955 Greenwood Ave NE APT 7",
+    "size": "680",
+    "price": "1275",
+    "type": "apartment"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "861 Charles Allen Dr NE APT C",
+    "size": "none",
+    "price": "1395",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "Eclipse",
+    "address": "250 Pharr Rd NE APT 1907",
+    "size": "762",
+    "price": "1850",
+    "type": "condo"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "1569 Mclendon Ave NE # 3",
+    "size": "none",
+    "price": "1000",
+    "type": "house"
+}, {
+    "zipcode": "30303",
+    "name": "none",
+    "address": "57 Forsyth St NW APT 8E",
+    "size": "739",
+    "price": "1850",
+    "type": "apartment"
+}, {
+    "zipcode": "30306",
+    "name": "none",
+    "address": "830 Barnett St NE APT 8",
+    "size": "427",
+    "price": "975",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "275 13th St NE",
+    "size": "780",
+    "price": "1600",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "none",
+    "address": "2840 Peachtree Rd NW",
+    "size": "1572",
+    "price": "1890",
+    "type": "condo"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "757 Monroe Dr NE APT 1",
+    "size": "686",
+    "price": "1400",
+    "type": "townhouse"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "950 W Peachtree St",
+    "size": "812",
+    "price": "1695",
+    "type": "apartment"
+}, {
+    "zipcode": "30305",
+    "name": "none",
+    "address": "3325 Piedmont Rd NE UNIT 1909,",
+    "size": "944",
+    "price": "2950",
+    "type": "condo"
+}, {
+    "zipcode": "30308",
+    "name": "none",
+    "address": "215 Piedmont Ave NE # 16",
+    "size": "1000",
+    "price": "1400",
+    "type": "condo"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "1075 Peachtree Walk NE UNIT A411",
+    "size": "750",
+    "price": "1575",
+    "type": "condo"
+}, {
+    "zipcode": "30307",
+    "name": "none",
+    "address": "Terrace Ave NE",
+    "size": "400",
+    "price": "1800",
+    "type": "apartment"
+}, {
+    "zipcode": "30309",
+    "name": "none",
+    "address": "W Peachtree St NW",
+    "size": "795",
+    "price": "1755",
+    "type": "apartment"
+}, {
+    "zipcode": "30312",
+    "name": "none",
+    "address": "Ralph Mcgill Blvd NE",
+    "size": "795",
+    "price": "1560",
+    "type": "apartment"
+}, {
+    "zipcode": "30324",
+    "name": "none",
+    "address": "1445 Monroe Dr NE APT E4",
+    "size": "720",
+    "price": "1390",
+    "type": "townhouse"
+}, {
+    "zipcode": "30315",
+    "name": "none",
+    "address": "1670 Lakewood Ave SW # 1",
+    "size": "none",
+    "price": "1150",
+    "type": "apartment"
+}]
